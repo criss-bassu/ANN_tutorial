@@ -12,9 +12,9 @@ This project is a tutorial on how to create and train an Artificial Neural Netwo
 - Open the tutorialANN.ipynb notebook (e.g. with Jupyter Notebook or Google Colab).
 - Run the cells in order.
 
-  **Project Structure**
+**Project Structure**
 - tutorialANN.ipynb: Jupyter Notebook containing code and explanations.
 - README.md: Project documentation.
 
-  **License**
-  MIT license.
+**License**
+MIT license.
